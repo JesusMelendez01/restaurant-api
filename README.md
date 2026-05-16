@@ -34,7 +34,7 @@ API REST desarrollada con FastAPI para la gestión de restaurantes y consumo de 
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/restaurant-api.git
+git clone https://github.com/JesusMelendez01/restaurant-api.git
 2. Entrar al proyecto
 cd restaurant-api
 3. Crear entorno virtual
